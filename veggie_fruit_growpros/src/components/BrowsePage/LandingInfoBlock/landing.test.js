@@ -1,7 +1,7 @@
 import React from "react";
 import { render } from "@testing-library/react";
 import "@testing-library/jest-dom";
-import LandingInfoBlock from "./";
+import LandingInfoBlock from "./LandingInfoBlock";
 
 const testProps = {
   infoHead: "title-one",
